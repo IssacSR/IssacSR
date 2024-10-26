@@ -1,5 +1,5 @@
-#  Hola, mi nombre es Issac Samano 
-#  Estudiante de Ing. en Sistemas Computacionales ESCOM-IPN👋
+#  Hola, mi nombre es Issac Samano 🤘 
+#  Actualmentr soy estudiante de Ing. en Sistemas Computacionales ESCOM-IPN ❤️💙
 
 <!--
 **IssacSR/IssacSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
